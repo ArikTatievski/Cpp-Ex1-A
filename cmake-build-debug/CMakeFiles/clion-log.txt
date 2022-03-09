@@ -1,0 +1,2 @@
+CMakeLists.txt not found in C:\Users\User\Desktop\Univercity\year2\semesterB\C++\Ex1 Select CMakeLists.txt
+CMake executable not found: \\wsl$\Ubuntu\usr\bin\cmake Configure Disable profile
